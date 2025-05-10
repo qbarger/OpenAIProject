@@ -1,0 +1,3 @@
+*.json
+aidb.sqlite
+node_modules/
